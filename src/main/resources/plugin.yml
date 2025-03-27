@@ -1,0 +1,5 @@
+name: NoVillagerBreeding
+version: '1.0.0'
+main: winlyps.noVillagerBreeding.NoVillagerBreeding
+api-version: '1.20'
+authors: [ Winlyps ]
